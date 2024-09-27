@@ -7,5 +7,5 @@ const hoverForTest = {
   3: t("greetings.evening"),
   4: t("greetings.questions.howRU"),
   5: t("greetings.questions.optional"),
-  6: t('greetings.questions.optional')
+  6: t('greetings.questions.a')
 };

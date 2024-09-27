@@ -8,6 +8,8 @@ const locales = {
       questions: {
         howRU: "Yo, how are you?",
         optional: "How is it going",
+        a: ''
+
       },
     },
   },
@@ -19,6 +21,7 @@ const locales = {
       questions: {
         howRU: "Inch ka chka?",
         optional: "Eli en hin tnern eq?",
+        a: ''
       },
     },
   },
